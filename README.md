@@ -6,7 +6,7 @@ A collection of reports and papers from my Master's and Bachelor's studies in Sp
 
 - **[MANTIS – Mars Tug Mission Design](./mantis-mars-tug/MANTIS-project.pdf)** — Mission design for a space tug delivering satellites to Mars orbit. I led the Mars arrival mission analysis and release orbit design. 
 
-- **[Reverse Engineering of NASA LADEE Mission](./ladee-reverse-engineering/report.pdf)** — Subsystem-level reverse engineering and re-sizing of the LADEE mission, comparing results against actual mission values.
+- **[Reverse Engineering of NASA LADEE Mission](./ladee-reverse-engineering/LADEE-RE.pdf)** — Subsystem-level reverse engineering and re-sizing of the LADEE mission, comparing results against actual mission values.
 
 - **[Attitude Control of a Small Satellite](./attitude-control-cubesat/report.pdf)** — Simulink model of satellite dynamics/kinematics with sensor and actuator noise; control law for detumbling, slew maneuvers, and pointing.
 
