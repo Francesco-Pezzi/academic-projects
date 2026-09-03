@@ -4,7 +4,7 @@ A collection of reports and papers from my Master's and Bachelor's studies in Sp
 
 ## Projects
 
-- **[MANTIS – Mars Tug Mission Design](./mantis-mars-tug/MANTIS_IAC2026.pdf)** — Mission design for a space tug delivering satellites to Mars orbit. I led the Mars arrival mission analysis and release orbit design. 
+- **[MANTIS – Mars Tug Mission Design](./mantis-mars-tug/MANTIS-project.pdf)** — Mission design for a space tug delivering satellites to Mars orbit. I led the Mars arrival mission analysis and release orbit design. 
 
 - **[Reverse Engineering of NASA LADEE Mission](./ladee-reverse-engineering/report.pdf)** — Subsystem-level reverse engineering and re-sizing of the LADEE mission, comparing results against actual mission values.
 
