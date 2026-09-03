@@ -6,9 +6,9 @@ A collection of reports and papers from my Master's and Bachelor's studies in Sp
 
 - **[MANTIS – Mars Tug Mission Design](./mantis-mars-tug/MANTIS-project.pdf)** — Mission design for a space tug delivering satellites to Mars orbit. I led the Mars arrival mission analysis and release orbit design. 
 
-- **[Estimation and Learning in Aerospace – Rover Dynamics](./estimation-learning-rover/report.pdf)** — Grey-box model to estimate the dynamics of a rover from measurement data, combining physics-based modeling with data-driven parameter identification.
+- **[Estimation and Learning in Aerospace – Rover Dynamics](./estimation-learning-rover/Estimation_project.pptx)** — Grey-box model to estimate the dynamics of a rover from measurement data, combining physics-based modeling with data-driven parameter identification.
 
-- **[Machine Learning – Conveyor Sorting & Spring-Mass Control](./machine-learning-course/report.pdf)** — Two independent exercises: a reinforcement learning agent for sorting packages on a conveyor belt, and a Bayesian optimization + neural network approach to control a coupled two-mass, two-spring system, driving the second mass to a target distance via induced oscillation.
+- **[Machine Learning – Conveyor Sorting & Spring-Mass Control](./machine-learning-course)** — Two independent exercises: a reinforcement learning agent for sorting packages on a conveyor belt, and a Bayesian optimization + neural network approach to control a coupled two-mass, two-spring system, driving the second mass to a target distance via induced oscillation.
 
 - **[Reverse Engineering of NASA LADEE Mission](./ladee-reverse-engineering/LADEE-RE.pdf)** — Subsystem-level reverse engineering and re-sizing of the LADEE mission, comparing results against actual mission values.
 
