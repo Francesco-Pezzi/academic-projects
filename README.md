@@ -8,7 +8,7 @@ A collection of reports and papers from my Master's and Bachelor's studies in Sp
 
 - **[Reverse Engineering of NASA LADEE Mission](./ladee-reverse-engineering/LADEE-RE.pdf)** — Subsystem-level reverse engineering and re-sizing of the LADEE mission, comparing results against actual mission values.
 
-- **[Attitude Control of a Small Satellite](./attitude-control-cubesat/report.pdf)** — Simulink model of satellite dynamics/kinematics with sensor and actuator noise; control law for detumbling, slew maneuvers, and pointing.
+- **[Attitude Control of a Small Satellite](./attitude-control-cubesat/SAD-project.pdf)** — Simulink model of satellite dynamics/kinematics with sensor and actuator noise; control law for detumbling, slew maneuvers, and pointing.
 
 - **[Mission to Ceres](./mission-to-ceres/report.pdf)** — Simplified mission design to the dwarf planet Ceres: interplanetary transfer, stable orbit, instrumentation, and pointing.
 
