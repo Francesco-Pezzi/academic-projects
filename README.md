@@ -14,6 +14,6 @@ A collection of reports and papers from my Master's and Bachelor's studies in Sp
 
 - **[Attitude Control of a Small Satellite](./attitude-control-cubesat/SAD-project.pdf)** — Simulink model of satellite dynamics/kinematics with sensor and actuator noise; control law for detumbling, slew maneuvers, and pointing.
 
-- **[Mission to Ceres](./mission-to-ceres/report.pdf)** — Simplified mission design to the dwarf planet Ceres: interplanetary transfer, stable orbit, instrumentation, and pointing.
+- **[Mission to Ceres](./mission-to-ceres/MissionToCeres.pdf)** — Simplified mission design to the dwarf planet Ceres: interplanetary transfer, stable orbit, instrumentation, and pointing.
 
-- **[Analysis of Direct Earth-Moon Transfers](./earth-moon-transfers-bachelor-thesis/thesis.pdf)** — Bachelor's thesis on 2D Earth-Moon transfers using the patched conics approach.
+- **[Analysis of Direct Earth-Moon Transfers](./earth-moon-transfers-bachelor-thesis/Bachelor's_thesis.pdf)** — Bachelor's thesis on 2D Earth-Moon transfers using the patched conics approach.
